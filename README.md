@@ -66,8 +66,7 @@ I regularly write about software engineering, DevOps, and cloud technologies:
 
 ---
 
-## 📊 GitHub Stats (Optional)
-> If stats cards ever fail to load, feel free to remove this section.
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhi15sep)
 
