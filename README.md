@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abhay
 
-🚀 **Senior Software Engineer** with a strong focus on backend systems, cloud infrastructure, and DevOps  
+🚀 **Principal Software Engineer** with a strong focus on backend systems, cloud infrastructure, and DevOps  
 ❤️ I love building reliable, scalable platforms and continuously learning new technologies
 
 ---
