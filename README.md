@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- Senior Software Engineer with hands-on experience in **cloud-native and distributed systems**
+- Principal Software Engineer with hands-on experience in **cloud-native and distributed systems**
 - Strong background in **Java, Spring Boot, AWS, Kubernetes, and Infrastructure as Code**
 - Passionate about **system design, reliability, security, and automation**
 - Enjoy sharing knowledge through blogs and technical discussions
